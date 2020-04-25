@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# programing by M.kawase(Embed A.I. Labo.)
+#
 
 import sys
 import numpy as np
